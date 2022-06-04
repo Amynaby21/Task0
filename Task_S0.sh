@@ -32,3 +32,6 @@ cp Mito.dat Mitochondrion.txt
 cd FastQ_DATA
 wc -l lane DD P4 TTAGGC LOO8 R1.fastq.gz
 wc *.fastq.gz|total.txt
+#Github link of participants
+echo "https://github.com/Amynaby21/Task0/blob/main/Task_S0.sh"
+echo "https://github.com/oluwamay/My-FirstBASH/blob/main/HackbioTASK1"
